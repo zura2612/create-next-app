@@ -18,7 +18,7 @@
 		"next": "catalog:"
 	},
 	"devDependencies": {
-		"@opennextjs/cloudflare": "workspace:*",
+		"@opennextjs/cloudflare": "latest",
 		"@playwright/test": "catalog:",
 		"@types/node": "catalog:",
 		"@types/react": "catalog:",
